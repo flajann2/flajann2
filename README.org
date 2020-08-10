@@ -1,0 +1,5 @@
+* Fred Mitchell's GitHub
+  Hello, all. I am experimenting with this feature,
+  and hopefully, it works well with OrgMode. If not, 
+  I will be rather a bit disapointed!
+
