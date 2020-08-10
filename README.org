@@ -8,7 +8,7 @@
   dead hard drives and obsoleted formats.
 
 ** Background
-   Among my very first code that I've written is this gravity well simulator
+   One of the very first software wrote was a Gravity Well Simulator
    that I wrote for the Apple II back in 1978 or so. I was 16 at the time,
    and what I learned from calculus (which I mastered at 13) made this even
    possible at all. I "reinvented" some numerical methods to do the integration
@@ -21,6 +21,15 @@
    me a bit, but he was busy writing the C compiler for this machine, and I 
    did help him with that as well.
 
+   It seems that gravity has been tugging at me throughtout my career... well,
+   I've always been fascinated by gravity and black holes and in cosmology in general.
+   During my Amiga days, I created the Mitchell Gravity Set fractal. I have recreated
+   implementations of that on the old MFC framework using the Microsoft C++ compiler and IDE,
+   and again on an early version of Qt on Linux back when Qt were referring to themselves 
+   as "Trolltech", and now a 3D version is in the works. 3D volumetric / iso-surface 
+   rendering is vastly more complex, so it's taking me a bit longer, but it will also represent
+   my first major attempts at GPU graphics. My "hello world", if you will.
+
    Today, after 40 years, I have shifted my career a bit. I now write patents for
    a living. I may go back to being a software engineer at some point, but doubtful.
    I don't like the current state of affairs with the work enviroment and processes
@@ -30,12 +39,14 @@
    I also now live in Germany, and have been here for the past 6 years at least. Germany 
    is a lovely country, and I like be central to most of Europe. At most, a 90-minute
    flight (assuming direct!!) Ich sprache manche Deutsch!
+
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
    to do this, based on the dedicated research of others. However, we will
    ultimately need a new kind of hardware to pull it off. Von Neumann-type machines 
    have an inherent bottleneck. And forget gradient descent approaches, even running
    on GPUs. They simply cannot scale to what is needed.
+
 ** Stats (this is not working yet)
    #+BEGIN_EXPORT html
    <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=flajann2&show_icons=true&hide_border=true" />
