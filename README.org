@@ -25,7 +25,7 @@
    a living. I may go back to being a software engineer at some point, but doubtful.
    I don't like the current state of affairs with the work enviroment and processes
    in place, which, in my humble view, has turned software development into a commodity,
-   with just a touch of Marist approaches. Not ture of every shop, but the creep is there.
+   with just a touch of Marxist approaches. Not ture of every shop, but the creep is there.
 
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
@@ -33,7 +33,8 @@
    ultimately need a new kind of hardware to pull it off. Von Neumann-type machines 
    have an inherent bottleneck. And forget gradient descent approaches, even running
    on GPUs. They simply cannot scale to what is needed.
-
-
+** Stats
+   #+begin_src html
+   <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=flajann2&show_icons=true&hide_border=true" />
+   #+end_src
    
-
