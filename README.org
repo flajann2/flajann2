@@ -27,15 +27,16 @@
    in place, which, in my humble view, has turned software development into a commodity,
    with just a touch of Marxist approaches. Not ture of every shop, but the creep is there.
 
+   I also now live in Germany, and have been here for the past 6 years at least. Germany 
+   is a lovely country, and I like be central to most of Europe. At most, a 90-minute
+   flight (assuming direct!!) Ich sprache manche Deutsch!
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
    to do this, based on the dedicated research of others. However, we will
    ultimately need a new kind of hardware to pull it off. Von Neumann-type machines 
    have an inherent bottleneck. And forget gradient descent approaches, even running
    on GPUs. They simply cannot scale to what is needed.
-** Stats
+** Stats (this is not working yet)
    #+BEGIN_EXPORT html
    <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=flajann2&show_icons=true&hide_border=true" />
    #+END_EXPORT
-
-   
