@@ -1,5 +1,39 @@
 * Fred Mitchell's GitHub
-  Hello, all. I am experimenting with this feature,
-  and hopefully, it works well with OrgMode. If not, 
-  I will be rather a bit disapointed!
+  I am a Software Architect / Engineer / Developer / Computer Scientist
+  or whatever interests me at the moment. I have been at this since before 
+  1980, before I even graduated from high school.
+
+  Most of my recent works are here. "Recent", meaning the past 20 years or so.
+  Most of my work before then have been lost to the winds of time and 
+  dead hard drives and obsoleted formats.
+
+** Background
+   Among my very first code that I've written is this gravity well simulator
+   that I wrote for the Apple II back in 1978 or so. I was 16 at the time,
+   and what I learned from calculus (which I mastered at 13) made this even
+   possible at all. I "reinvented" some numerical methods to do the integration
+   necessary. I had very limited access to resources back then, so I did my best.
+
+   In 1980, I wrote an OS from scratch for the Nova 4X computer (Data General),
+   including the drivers for the tape transport and the hard drive, the size
+   of a washing machine, with the removal disk packs. I was only 18 at the time,
+   and had no idea about what it was I was really doing. I had a mentor who guided 
+   me a bit, but he was busy writing the C compiler for this machine, and I 
+   did help him with that as well.
+
+   Today, after 40 years, I have shifted my career a bit. I now write patents for
+   a living. I may go back to being a software engineer at some point, but doubtful.
+   I don't like the current state of affairs with the work enviroment and processes
+   in place, which, in my humble view, has turned software development into a commodity,
+   with just a touch of Marist approaches. Not ture of every shop, but the creep is there.
+
+** Aspirations
+   I hope to be able to bring about AGI someday. I already have a good idea how
+   to do this, based on the dedicated research of others. However, we will
+   ultimately need a new kind of hardware to pull it off. Von Neumann-type machines 
+   have an inherent bottleneck. And forget gradient descent approaches, even running
+   on GPUs. They simply cannot scale to what is needed.
+
+
+   
 
