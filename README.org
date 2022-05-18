@@ -8,7 +8,7 @@
   dead hard drives and obsoleted formats.
 
 ** Background
-   One of the very first software wrote was a Gravity Well Simulator
+   One of the very first software that I wrote was a Gravity Well Simulator
    that I wrote for the Apple II back in 1978 or so. I was 16 at the time,
    and what I learned from calculus (which I mastered at 13) made this even
    possible at all. I "reinvented" some numerical methods to do the integration
