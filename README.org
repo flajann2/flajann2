@@ -37,15 +37,23 @@
    with just a touch of Marxist approaches. Not ture of every shop, but the creep is there.
 
    I also now live in Germany, and have been here for the past 6 years at least. Germany 
-   is a lovely country, and I like be central to most of Europe. At most, a 90-minute
+   is a lovely country, and I like being central to most of Europe. At most, a 90-minute
    flight (assuming direct!!) Ich sprache manche Deutsch!
 
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
    to do this, based on the dedicated research of others. However, we will
    ultimately need a new kind of hardware to pull it off. Von Neumann-type machines 
-   have an inherent bottleneck. And forget gradient descent approaches, even running
+   have an inherent bottleneck. And forget gradient descent approaches, or even running
    on GPUs. They simply cannot scale to what is needed.
+   
+   I, now, as on 2022, have an idea for such hardware, but I need to do a ton of research. As
+   an old mentor once said: creativity is 1% inspiration and 99% perspiration. And my time
+   is limited, and I am not getting any younger. 
+   
+   I am also trying to resolve how I can merge the concepts of NEAT and HTM to produce something truly novel.
+   Time to become more like Elon Musk and start doing something wiht the many ideas I have brewing
+   in this brain of mine.
 
 ** Stats (this is not working yet)
    #+BEGIN_EXPORT html
