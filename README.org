@@ -9,7 +9,7 @@
   
 ** Aviso
    I am no longer using GitHub as my primary repo service. After GitHub a.k.a 
-   Microsoft yank the repo of a very popular media downloader -- and there was no
+   Microsoft yanked the repo of a very popular media downloader -- and there was no
    call for that -- I created my private repo, and now only sync here when the
    project is complete. So if you don't see any recent commits here, that is why. If, for 
    whatever the reason, Microsoft chooses to yank one of my repos here, I won't be
