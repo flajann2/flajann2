@@ -13,7 +13,7 @@
    call for that -- I created my private repo, and now only sync here when the
    project is complete. So if you don't see any recent commits here, that is why. If, for 
    whatever the reason, Microsoft chooses to yank one of my repos here, I won't be
-   blown out of the water. And I should be mirroring everything on GitLab, anyway!!!
+   blown out of the water. And I should be mirroring everything on GitLab!!!
 
    However, I will use Github for some of my work, anyway.
   
