@@ -49,7 +49,7 @@
    Time to become more like Elon Musk and start doing something with the many ideas I have brewing
    in this brain of mine.
 
-** Stats (this is not working yet)
+** Stats (wip)
    #+BEGIN_EXPORT html
    <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=flajann2&show_icons=true&hide_border=true" />
    #+END_EXPORT
