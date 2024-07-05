@@ -6,17 +6,7 @@
   Most of my recent works are here. "Recent", meaning the past 20 years or so.
   Most of my work before then have been lost to the winds of time and 
   dead hard drives and obsoleted formats. Not that you are interested in anything back that far!
-  
-** Aviso
-   I am no longer using GitHub as my primary repo service. After GitHub a.k.a 
-   Microsoft yanked the repo of a very popular media downloader -- and there was no
-   call for that -- I created my private repo, and now only sync here when the
-   project is complete. So if you don't see any recent commits here, that is why. If, for 
-   whatever the reason, Microsoft chooses to yank one of my repos here, I won't be
-   blown out of the water. And I should be mirroring everything on GitLab!!!
-
-   However, I will use Github for some of my work, anyway.
-  
+   
 ** Background
    One of the very first software that I wrote was a Gravity Well Simulator
    that I wrote for the Apple II back in 1978 or so. I was 16 at the time,
