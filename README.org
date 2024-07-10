@@ -1,7 +1,6 @@
 * Fred Mitchell's GitHub
   I am a Software Architect / Engineer / Developer / Computer Scientist
-  or whatever interests me at the moment. I have been at this since before 
-  1980, before I even graduated from high school.
+  or whatever interests me at the moment.
 
   Most of my recent works are here. "Recent", meaning the past 20 years or so.
   Most of my work before then have been lost to the winds of time and 
