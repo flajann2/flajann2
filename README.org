@@ -2,37 +2,6 @@
   I am a Software Architect / Engineer / Developer / Computer Scientist
   or whatever interests me at the moment.
 
-  Most of my recent works are here. "Recent", meaning the past 20 years or so.
-  Most of my work before then have been lost to the winds of time and 
-  dead hard drives and obsoleted formats. Not that you are interested in anything back that far!
-   
-** Background
-   One of the very first software that I wrote was a Gravity Well Simulator
-   for the Apple II back in 1978 or so. I was 16 at the time,
-   and what I learned from calculus (which I mastered at 13) made this even
-   possible at all. I "reinvented" some numerical methods and vector calculations to do the integration
-   necessary. I had very limited access to resources back then, so I did my best. And it worked.
-
-   In 1980, I wrote an OS from scratch for the Nova 4X computer (Data General),
-   including the drivers for the tape transport and the hard drive, the size
-   of a washing machine, with the removal disk packs. I was only 18 at the time,
-   and had no idea about what it was I was really doing. I had a mentor who guided 
-   me a bit, but he was busy writing the C compiler for this machine, and I 
-   did help him with that as well.
-
-   It seems that gravity has been tugging at me throughtout my career... well,
-   I've always been fascinated by gravity and black holes and in cosmology in general.
-   During my Amiga days, I created the Mitchell Gravity Set fractal. I have recreated
-   implementations of that on the old MFC framework using the Microsoft C++ compiler and IDE,
-   and again on an early version of Qt on Linux back when Qt were referring to themselves 
-   as "Trolltech", and now a 3D version is in the works. 3D volumetric / iso-surface 
-   rendering is vastly more complex, so it's taking me a bit longer, but it will also represent
-   my first major attempts at GPU graphics. My "hello world", if you will.
-
-   I lived in Germany for the better part of a decade, and now live elsewhere. Germany 
-   is a lovely country, and I like being central to most of Europe. At most, a 90-minute
-   flight (assuming direct!!) Ich sprache manche Deutsch!
-
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
    to do this, based on the dedicated research of others. However, we will
