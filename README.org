@@ -20,3 +20,9 @@
    + Spiking NEAT
    + Swiss Army Knife
    + Slit Scan
+** Human Languages
+   In (exponentially) descending order of expertise:
+   + English
+   + German
+   + Spanish
+   + French
