@@ -40,6 +40,10 @@
    ...and many others
 ** Major Accomplishments
    (Ask me!)
+   + Wrote OS from scratch for the Data General Nova 4X computer (18 at the time)
+   + Patent for a Fractal GUI Interface
+   + Multilateration Algorithm
+   + Mitchell Gravity Set
 ** Favorite Famous Fellows
    + Elon Musk
    + DT
