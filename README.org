@@ -9,13 +9,14 @@
    have an inherent bottleneck. And forget gradient descent approaches, or even running
    on GPUs. They simply cannot scale to what is needed.
    
-   I, now, as on 2022, have an idea for such hardware, but I need to do a ton of research. As
+   I, now, as of 2022, have an idea for such hardware, but I need to do a ton of research. As
    an old mentor once said: creativity is 1% inspiration and 99% perspiration. And my time
    is limited, and I am not getting any younger. 
    
    I am also trying to resolve how I can merge the concepts of NEAT and HTM to produce something truly novel.
    Time to become more like Elon Musk and start doing something with the many ideas I have brewing
    in this brain of mine.
+   + UPDATE: I think I figured it out: Spiking NEAT! 
 ** Hot Projects
    + Spiking NEAT (Haskell)
      my extremely dimunitive contribution to AGI. :D
