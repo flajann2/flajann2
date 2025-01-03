@@ -17,12 +17,37 @@
    Time to become more like Elon Musk and start doing something with the many ideas I have brewing
    in this brain of mine.
 ** Hot Projects
-   + Spiking NEAT
-   + Swiss Army Knife
-   + Slit Scan
+   + Spiking NEAT (Haskell)
+     my extremely dimunitive contribution to AGI. :D
+   + Swiss Army Knife (Haskell)
+     Currently in the AUR.
+   + Slit Scan (C++)
 ** Human Languages
    In (exponentially) descending order of expertise:
    + English
    + German
    + Spanish
    + French
+** Computer Languages
+   In no particular order
+   + Haskell
+   + C++
+   + Elixir
+   + Ruby
+   + Python
+   + Java
+   ...and many others
+** Major Accomplishments
+   (Ask me!)
+** Favorite Famous Fellows
+   + Elon Musk
+   + DT
+   + Sophie Germain
+   + Albert Einstein
+   + Authur C Clarke
+   + Margaret Hamilton
+   + Sir Rowan Hamilton
+   + Carl Friedrich Gauss
+   + Lizst
+   + Chopin
+   + Issac Asimov
