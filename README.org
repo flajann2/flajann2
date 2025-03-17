@@ -33,8 +33,9 @@
    In no particular order
    + Haskell
    + C++
+   + TypeScript / PureScript / Elm
    + Elixir
-   + Ruby
+   + Ruby and RoR
    + Python
    + Java
    ...and many others
