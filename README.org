@@ -1,6 +1,6 @@
 * Fred Mitchell's GitHub
-  I am a Software Architect / Engineer / Developer / Computer Scientist
-  or whatever interests me at the moment.
+  I am a Software Architect / Engineer / Developer / Computer Scientist. What's in a label?
+  The labels are less important than the actual accomplishments. 
 
 ** Aspirations
    I hope to be able to bring about AGI someday. I already have a good idea how
